@@ -33,6 +33,12 @@ In order to make direct use of the driver it should suffice to build the driver
 with `make` and to load it with `insmod 88x2bu.ko`. This will allow you
 to use the driver directly without changing your system persistently.
 
+Complete instruction:
+
+    sudo make
+    sudo make install
+    sudo modprobe 88x2bu
+
 It might happen that your system freezes instantaneously. Ensure to not loose
 important work by saving and such beforehand.
 

@@ -18,6 +18,7 @@ Build confirmed on:
 
 * Linux version `5.4.0-91-generic` on Linux Mint 20.2 (30 November 2021)
 * Linux version `5.15.89` on Manjaro (3 February 2023)
+* Linux version `5.15.0-71-generic` on Ubuntu 20.04 (UP 4000) (3 June 2023)
 * Linux version `5.19` on Ubuntu 22.4
 * Linux version `6.1.0-9-amd64` on Debian Bookworm
 * Linux version `6.1.*` (self compiled) on Debian Bookworm and Ubuntu 22.4
